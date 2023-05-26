@@ -1,10 +1,10 @@
 <script setup lang="ts">
+import { ref } from 'vue'
 import Banner from '@/components/Banner.vue';
-</script>
 
+
+</script>
 <template>
-  <main>
-    <h1>교회소개</h1>
+    <h1>홈화면</h1>
     <Banner />
-  </main>
 </template>
