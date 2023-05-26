@@ -4,7 +4,7 @@ import Banner from '@/components/Banner.vue';
 
 <template>
   <main>
-    <h1>교회소개</h1>
+    <h1>홈</h1>
     <Banner />
   </main>
 </template>

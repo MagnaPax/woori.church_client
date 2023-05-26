@@ -6,8 +6,11 @@ import { RouterLink, RouterView } from 'vue-router'
 <template>
     <section>
         <span>
+            <RouterLink to="/">LOGO</RouterLink>
+        </span>
+        <span>
             <!-- `<router-link>`는 `href` 속성이 있는 `<a>` 태그로 렌더링됨. -->
-            <RouterLink to="/">교회소개</RouterLink>
+            <RouterLink to="/intro">교회소개</RouterLink>
         </span>
         <span>
             <RouterLink to="/worship">예배찬양</RouterLink>
