@@ -21,5 +21,5 @@ import { RouterLink, RouterView } from 'vue-router'
     </section>
     <!-- RouterView : routes안의 url에 해당하는 컴포넌트들이 표현되는 '태그' -->
     <!-- 각 url 에 해당되는 내용이 표시됨 -->
-    <RouterView />
+    <!-- <RouterView /> -->
 </template>
